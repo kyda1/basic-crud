@@ -9,3 +9,4 @@ This project perform basic crud (Create, Read, Update, Delete) operations where 
 - CSS
 - PHP
 - MySql
+- Javascript
